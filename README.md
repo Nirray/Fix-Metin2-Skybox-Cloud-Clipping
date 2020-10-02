@@ -1,6 +1,5 @@
 # Small fix - Skybox cloud clipping
 
-Hello DEVs 🤗
 I understand that most people use cloudless skyboxes in these times, but there is a graphic glitch (usually when the player teleports/dragging a game window) with "jumping" clouds.
 
 
